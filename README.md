@@ -19,8 +19,6 @@
 
 ### 🎨 Frontend
 ![Blade](https://img.shields.io/badge/blade-%23DD0031.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -32,7 +30,6 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -42,7 +39,7 @@
 ---
 
 ## 🌟 Projects Showcase
-- **[POS-System](https://github.com/Hbiiiii2/Laravel10-Newsportal)** – My most popular repo (web app for ticketing system).  
+- **[POS-System](https://github.com/Hbiiiii2/Laravel10-Newsportal)** – My latest project  
 - **[SmartStock-app](https://github.com/Hbiiiii2/SmartStock-app)** – Inventory management system.  
 - **[ttd_digital](https://github.com/Hbiiiii2/ttd_digital)** – Digital signing project.  
 
