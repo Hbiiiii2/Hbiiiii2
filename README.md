@@ -39,9 +39,9 @@
 ---
 
 ## 🌟 Projects Showcase
-- **[POS-System](https://github.com/Hbiiiii2/Laravel10-Newsportal)** – My latest project  
+- **[POS-System](https://github.com/Hbiiiii2/POS-System)** – My latest project.  
 - **[SmartStock-app](https://github.com/Hbiiiii2/SmartStock-app)** – Inventory management system.  
-- **[ttd_digital](https://github.com/Hbiiiii2/ttd_digital)** – Digital signing project.  
+- **[News-Portal](https://github.com/Hbiiiii2/Laravel10-Newsportall)** – News Portal with laravel 11.  
 
 ---
 
