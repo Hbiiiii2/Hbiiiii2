@@ -13,7 +13,6 @@
 
 ```js
 const abi = {
-  pronouns: "She/Her",
   code: ["PHP", "Blade", "JavaScript", "CSS"],
   frontEnd: ["React", "Vue", "Tailwind CSS", "Bootstrap"],
   backEnd: ["Node.js", "Express", "Laravel"],
