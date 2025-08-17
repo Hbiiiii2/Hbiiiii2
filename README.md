@@ -1,33 +1,24 @@
-# 💫 About Me
-Hi, I'm Habibi 👋  
-A Bachelor’s student in Informatics at **Universitas BSI**.  
-I love building things with **AI, automation, and web technologies**. Currently diving deeper into **Python, Laravel, and ML frameworks**.  
+<!-- Banner Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Abi's%20GitHub%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
-✨ *Fun fact: I can spend hours debugging and still call it “fun”.*  
+# 👋 Hey, I'm Abi  
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hbiiiii2)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Hbiiiii2)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/hbiiiii2)  
+🚀 Enthusiastic developer passionate about **web development** and **software applications**.  
+💡 I love bringing ideas to life with **PHP, Blade, JavaScript, and CSS**.  
+🌱 Currently exploring **Node.js, Laravel, and modern frontend frameworks**.  
 
 ---
 
-# 💻 Tech Stack
-**Languages:** ![Python](...) ![PHP](...)  
-**Frameworks:** ![Laravel](...) ![Flask](...) ![Django](...)  
-**Databases:** ![MySQL](...) ![SQLite](...)  
-**Tools:** ![Git](...) ![Figma](...) ![Canva](...)  
-**AI/ML:** ![OpenCV](...) ![Pandas](...) ![NumPy](...)  
+## 💻 Skills & Expertise  
 
----
-
-## 🚀 Projects
-- **POS System (Laravel 11)** – role-based auth, product & transaction system.  
-- **NusaFarm** – platform connecting farmers & investors with gamification features.  
-- **AI Chatbot (HybridNusa)** – customer service bot for SMEs with cultural adaptation.  
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Hbiiiii2&icon=0&color=0)
+```js
+const abi = {
+  pronouns: "She/Her",
+  code: ["PHP", "Blade", "JavaScript", "CSS"],
+  frontEnd: ["React", "Vue", "Tailwind CSS", "Bootstrap"],
+  backEnd: ["Node.js", "Express", "Laravel"],
+  databases: ["MySQL", "MongoDB", "SQLite"],
+  tools: ["Git", "VS Code", "Terminal"],
+  currentFocus: "Building impactful web apps & learning new tech",
+  funFact: "Coding is not just my profession, it's my passion 🚀"
+};
